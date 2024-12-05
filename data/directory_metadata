@@ -1,0 +1,15 @@
+Directory Metadata
+==================
+
+This repository contains the following folders and files:
+1. `code/`: Contains files related to coding tasks and scripts.
+   - `hello.qmd`: A Quarto Markdown file with initial code for STAT184 activities.
+   - `.gitkeep`: A placeholder file to ensure the `code` folder is included in version control.
+
+2. `data/`: Stores datasets and other related metadata.
+   - `.gitattributes`: Configuration file for Git's handling of specific attributes.
+   - `README.md`: A Markdown file providing a general overview of the repository's purpose.
+
+Repository Purpose:
+-------------------
+This repository is a STAT184 GitHub homework template.
